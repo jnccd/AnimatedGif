@@ -15,8 +15,15 @@ primary
 lastDtbSucceeded
 
 [properties]
+AssemblyName=AnimatedGif.ImageSharp
 CommandLineArgsForDesignTimeEvaluation=-langversion:10.0 -define:TRACE
+CompilerGeneratedFilesOutputPath=
 MaxSupportedLangVersion=10.0
+ProjectAssetsFile=<PATH>obj/project.assets.json
+RootNamespace=AnimatedGif.ImageSharp
+RunAnalyzers=
+RunAnalyzersDuringLiveAnalysis=
+SolutionPath=<PATH>../../MEE7-Discord-Bot.sln
 TargetFrameworkIdentifier=.NETCoreApp
 TargetPath=<PATH>bin/Debug/net6.0/AnimatedGif.ImageSharp.dll
 TargetRefPath=<PATH>obj/Debug/net6.0/ref/AnimatedGif.ImageSharp.dll
